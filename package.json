@@ -1,0 +1,19 @@
+{
+  "name": "nfk-quiz",
+  "version": "1.0.0",
+  "description": "THIS IS CLI BASED QUIZ",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
